@@ -42,7 +42,7 @@ O projeto teve como objetivo colocar em prática conceitos de desenvolvimento Fr
 # 📸 Preview
 
 <p align="center">
-  <img src="Henrique store.png" alt="Preview da Henrique Store" width="100%">
+  <img src="Henrique Store.png" alt="Preview da Henrique Store" width="100%">
 </p>
 
 ---
