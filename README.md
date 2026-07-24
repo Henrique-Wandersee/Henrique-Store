@@ -1,7 +1,7 @@
 # 🛍️ Henrique Store
 
 <p align="center">
-  <img src="Henrique store.png" alt="Henrique Store" width="100%">
+  <img src="Henrique Store.png" alt="Henrique Store" width="100%">
 </p>
 
 <h3 align="center">
